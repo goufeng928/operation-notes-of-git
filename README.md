@@ -22,9 +22,9 @@ MacOS版 : https://git-scm.com/download/mac
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. Git简易命令入门教程.sh
+2. xxxx
+3. xxxx
 
 #### 参与贡献
 
