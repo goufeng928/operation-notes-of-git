@@ -24,7 +24,7 @@ MacOS版 : https://git-scm.com/download/mac
 
 1. Git简易命令入门教程.sh
 2. Git方法1-先将仓库clone到本地_修改后再push到Gitee的仓库.sh
-3. xxxx
+3. Git方法2-本地初始化一个仓库_设置远程仓库地址后再做push.sh
 
 #### 参与贡献
 
